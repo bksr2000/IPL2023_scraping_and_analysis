@@ -1,0 +1,210 @@
+id,Name,Team,Role
+1,Wriddhiman Saha,1,Bat & Wk
+2,Shubman Gill,1,Bat
+3,Kane Williamson,1,Bat
+4,Hardik Pandya,1,All
+5,Vijay Shankar,1,All
+6,Rahul Tewatia,1,All
+7,Rashid Khan,1,Bowl
+8,Alzarri Joseph,1,Bowl
+9,Josh Little,1,Bowl
+10,Mohammed Shami,1,Bowl
+11,Yash Dayal,1,Bowl
+12,MS Dhoni,9,Bat & Wk
+13,Ruturaj Gaikwad,9,Bat
+14,Moeen Ali,9,All
+15,Ben Stokes,9,All
+16,Ambati Rayudu,9,Bat
+17,Ravindra Jadeja,9,All
+18,Shivam Dube,9,All
+19,Mitchell Santner,9,All
+20,Deepak Chahar,9,Bowl
+21,Devon Conway,9,Bat & Wk
+22,Rajvardhan Hangargekar,9,Bowl
+23,Prabhsimran Singh,6,Bat & Wk
+24,Shikhar Dhawan,6,Bat
+25,Bhanuka Rajapaksa,6,Bat
+26,Sam Curran,6,All
+27,Nathan Ellis,6,Bowl
+28,Jitesh Sharma,6,Bat & Wk
+29,Sikandar Raza,6,All
+30,Shahrukh Khan,6,Bat
+31,Harpreet Brar,6,All
+32,Rahul Chahar,6,Bowl
+33,Arshdeep Singh,6,Bowl
+34,Rahmanullah Gurbaz,7,Bat & Wk
+35,Mandeep Singh,7,Bat
+36,Nitish Rana,7,All
+37,Rinku Singh,7,Bat
+38,Andre Russell,7,All
+39,Sunil Narine,7,All
+40,Tim Southee,7,Bowl
+41,Umesh Yadav,7,Bowl
+42,Shardul Thakur,7,Bowl
+43,Varun Chakravarthy,7,Bowl
+44,Anukul Roy,7,All
+45,KL Rahul,3,Bat & Wk
+46,Nicholas Pooran,3,Bat & Wk
+47,Deepak Hooda,3,Bat
+48,Ayush Badoni,3,All
+49,Marcus Stoinis,3,All
+50,Krunal Pandya,3,All
+51,Kyle Mayers,3,All
+52,Avesh Khan,3,Bowl
+53,Mark Wood,3,Bowl
+54,Ravi Bishnoi,3,Bowl
+55,Jaydev Unadkat,3,Bowl
+56,Sarfaraz Khan,5,Bat
+57,David Warner,5,Bat
+58,Prithvi Shaw,5,Bat
+59,Rovman Powell,5,Bat
+60,Rilee Rossouw,5,Bat
+61,Mitchell Marsh,5,Bat
+62,Axar Patel,5,All
+63,Kuldeep Yadav,5,Bowl
+64,Khaleel Ahmed,5,Bowl
+65,Chetan Sakariya,5,Bowl
+66,Mukesh Kumar,5,Bowl
+67,Rahul Tripathi,8,Bat
+68,Mayank Agarwal,8,Bat
+69,Harry Brook,8,Bat
+70,Glenn Phillips,8,Bat
+71,Fazalhaq Farooqi,8,Bowl
+72,Adil Rashid,8,Bowl
+73,Washington Sundar,8,All
+74,Abhishek Sharma,8,All
+75,T Natarajan,8,Bowl
+76,Bhuvneshwar Kumar,8,Bowl
+77,Umran Malik,8,Bowl
+78,Jos Buttler,2,Bat & Wk
+79,Yashasvi Jaiswal,2,Bat
+80,Sanju Samson,2,Bat & Wk
+81,Devdutt Padikkal,2,Bat
+82,Shimron Hetmyer,2,Bat
+83,Riyan Parag,2,All
+84,Jason Holder,2,All
+85,Trent Boult,2,Bowl
+86,Ravichandran Ashwin,2,All
+87,KM Asif,2,Bowl
+88,Yuzvendra Chahal,2,Bowl
+89,Dinesh Karthik,4,Bat & Wk
+90,Virat Kohli,4,Bat
+91,Faf du Plessis,4,Bat
+92,Glenn Maxwell,4,All
+93,Michael Bracewell,4,Bat
+94,Shahbaz Ahmed,4,All
+95,Harshal Patel,4,Bowl
+96,Mohammed Siraj,4,Bowl
+97,Reece Topley,4,Bowl
+98,Karn Sharma,4,Bowl
+99,Akash Deep,4,Bowl
+100,Ishan Kishan,10,Bat & Wk
+101,Rohit Sharma,10,Bat
+102,Suryakumar Yadav,10,Bat
+103,Tim David,10,Bat
+104,Tilak Varma,10,Bat
+105,Nehal Wadhera,10,Bat
+106,Cameron Green,10,All
+107,Hrithik Shokeen,10,All
+108,Jofra Archer,10,Bowl
+109,Piyush Chawla,10,Bowl
+110,Arshad Khan,10,Bowl
+111,Yash Thakur,3,Bowl
+112,Abishek Porel,5,Bat & Wk
+113,Aman Hakim Khan,5,Bowl
+114,Anrich Nortje,5,Bowl
+115,Sai Sudharsan,1,Bat
+116,David Miller,1,Bat
+117,Suyash Sharma,7,Bowl
+118,David Willey,4,Bowl
+119,Romario Shepherd,3,All
+120,Amit Mishra,3,Bowl
+121,Aiden Markram,8,All
+122,Anmolpreet Singh,8,Bat
+123,Abdul Samad,8,Bat
+124,Dhruv Jurel,2,Bat & Wk
+125,Sandeep Sharma,2,Bowl
+126,Lalit Yadav,5,All
+127,Manish Pandey,5,Bat
+128,Tristan Stubbs,10,Bat
+129,Jason Behrendorff,10,Bowl
+130,Ajinkya Rahane,9,Bat
+131,Dwaine Pretorius,9,All
+132,Sisanda Magala,9,Bowl
+133,Tushar Deshpande,9,Bowl
+134,Narayan Jagadeesan,7,Bat & Wk
+135,Venkatesh Iyer,7,All
+136,Lockie Ferguson,7,Bowl
+137,Heinrich Klaasen,8,Bat & Wk
+138,Marco Jansen,8,All
+139,Mayank Markande,8,Bowl
+140,Mohit Rathee,6,Bowl
+141,Matthew Short,6,All
+142,Anuj Rawat,4,Bat & Wk
+143,Mahipal Lomror,4,All
+144,Wayne Parnell,4,All
+145,Yash Dhull,5,Bat
+146,Mustafizur Rahman,5,Bowl
+147,Riley Meredith,10,Bowl
+148,Maheesh Theekshana,9,Bowl
+149,Akash Singh,9,Bowl
+150,Kuldeep Sen,2,Bowl
+151,Kagiso Rabada,6,Bowl
+152,Rishi Dhawan,6,All
+153,Mohit Sharma,1,Bowl
+154,Wanindu Hasaranga,4,All
+155,Yudhvir Singh,3,Bowl
+156,Harpreet Singh,6,Bat
+157,Atharva Taide,6,Bat
+158,Arjun Tendulkar,10,Bowl
+159,Duan Jansen,10,Bowl
+160,Abhinav Manohar,1,Bat
+161,Adam Zampa,2,Bowl
+162,Suyash Prabhudessai,4,Bat
+163,Vijaykumar Vyshak,4,Bowl
+164,Matheesha Pathirana,9,Bowl
+165,Naveen-ul-Haq,3,Bowl
+166,Liam Livingstone,6,All
+167,Ishant Sharma,5,Bowl
+168,Philip Salt,5,Bat & Wk
+169,Litton Das,7,Bat & Wk
+170,Jason Roy,7,Bat
+171,Kulwant Khejroliya,7,Bowl
+172,Mayank Dagar,8,Bowl
+173,Prerak Mankad,3,All
+174,Jayant Yadav,1,Bowl
+175,Noor Ahmad,1,Bowl
+176,Abdul Basith,2,Bat
+177,David Wiese,7,All
+178,Ripal Patel,5,Bat
+179,Kumar Kartikeya,10,Bowl
+180,Vaibhav Arora,7,Bowl
+181,Kuldip Yadav,2,Bowl
+182,Gurnoor Brar,6,Bowl
+183,Harshit Rana,7,Bowl
+184,Priyam Garg,5,Bat
+185,Akeal Hosein,8,Bowl
+186,Krishnappa Gowtham,3,All
+187,Josh Hazlewood,4,Bowl
+188,Manan Vohra,3,Bat
+189,Karan Sharma,3,Bat
+190,Mohsin Khan,3,Bowl
+191,Akash Madhwal,10,Bowl
+192,Kartik Tyagi,8,Bowl
+193,Raghav Goyal,10,All
+194,Kedar Jadhav,4,Bat
+195,Quinton de Kock,3,Bat & Wk
+196,Swapnil Singh,3,All
+197,Obed McCoy,2,Bowl
+198,Joe Root,2,Bat
+199,Murugan Ashwin,2,Bowl
+200,Vivrant Sharma,8,All
+201,Chris Jordan,10,Bowl
+202,Vishnu Vinod,10,Bat & Wk
+203,Praveen Dubey,5,Bowl
+204,Dasun Shanaka,1,All
+205,Sanvir Singh,8,All
+206,Nitish Kumar Reddy,8,All
+207,Navdeep Saini,2,Bowl
+208,Himanshu Sharma,4,Bowl
+209,Darshan Nalkande,1,Bowl
